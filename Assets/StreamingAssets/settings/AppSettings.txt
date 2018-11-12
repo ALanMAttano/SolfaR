@@ -1,0 +1,5 @@
+UpdateTimeSeconds : 30
+
+DownloadFromUrlWebPath : http://www.mattano.com/cestino/igc
+SaveToPcFolderPath : U:/Cestino/DeleteNow/delete
+FileExtension : igc

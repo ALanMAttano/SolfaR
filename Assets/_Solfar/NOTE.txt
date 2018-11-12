@@ -1,0 +1,52 @@
+/*************************************************
+ * 
+ *      2018 By Alan Mattano at SOARING STARS lab
+ *      for SergioSolfa Request and Vuelo a Vela
+ *      
+ *      GENERAL NOTE INFORMATION
+ *
+ * ***********************************************/
+
+
+
+TODO:
+
+	Borrar antiguo proyecto
+	U:\UnityX\SoaringSimulator\Components\Track Save Path\SavePathProject\Assets\_Solfar
+
+	> Usar "AppStates" en Manager > InfoDataManager y no SystemActivationStatus
+
+	Realizar solo download de los archivos interesados
+	
+	Ponerlo en Github
+	
+	Realizar un video
+
+	Realizar Publicacion en FB
+
+
+INSTALLETION
+
+	INCLUDE:
+
+			UNITY:
+			Download and install Unity 2018.2
+
+	After opening Unity 2018.2 include this SolfaR ASSET
+	into the Asset folder.
+
+	INCLUDE:
+
+			Crosstales FileBrowser:
+			Go to Unity asset store and 
+			search for Crosstales FileBrowser, 
+			download the free package and 
+			install it into the SolfaR project.
+
+	Now you are ready to make modifications of the C# scripts
+
+
+BUILD
+	As a final software, using Unity free game engine you can make 
+	any kind of build for any device.
+
