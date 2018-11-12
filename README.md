@@ -1,6 +1,8 @@
-# SolfaR
+# SolfaR 
+by SoaringStarsLab
 
-Unity asset folder "SolfaR" that is able to download files with extension ".IGC" from a URL direction and save them updating a PC folder.
+**Unity asset folder "SolfaR" that is able to download files with extension ".IGC" from a URL direction and save them updating a PC folder.**
+
 
 
 ## About
@@ -18,6 +20,8 @@ There are two groups of example code in this project:
 
 # Notice
 
+**This repo contains a folder with Copyright content**
+
 SoaringStarsLab All rights reserved Copyright (c) 2015 Alan Mattanó Argentina and Italy European Union
 
 And 
@@ -25,7 +29,6 @@ And
 SolfaR All rights reserved Copyright (c) 2018 Alan Mattanó, Argentina and Italy European Union
 
 
-**This repo contains a folder with Copyright content**
 ```
-2018
+2018.3
 ```
