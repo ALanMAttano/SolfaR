@@ -29,6 +29,7 @@ Content under MIT licens: https://github.com/ALanMAttano/SolfaR/blob/master/LICE
 **This repo contains a folder with Copyright content**
 
 SoaringStarsLab All rights reserved Copyright (c) 2015 Alan Mattanó Argentina and Italy European Union
+
 SolfaR All rights reserved Copyright (c) 2018 Alan Mattanó, Argentina and Italy European Union
 
 ```
