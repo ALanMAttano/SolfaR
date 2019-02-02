@@ -20,12 +20,14 @@ There are two groups of example code in this project:
 
 ### Links
 Web Page: http://mattano.com/SolfaR/
+
 Screenshot: http://mattano.com/SolfaR/pix/solfar_screenshoot.png
 
 ### License
 Content under MIT licens: https://github.com/ALanMAttano/SolfaR/blob/master/LICENSE
 
 **This repo contains a folder with Copyright content**
+
 SoaringStarsLab All rights reserved Copyright (c) 2015 Alan Mattanó Argentina and Italy European Union
 SolfaR All rights reserved Copyright (c) 2018 Alan Mattanó, Argentina and Italy European Union
 
